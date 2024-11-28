@@ -1,6 +1,7 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
+import { useState } from 'react'
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGooglePlusG, faFacebookF, faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'
 import { IconDefinition } from '@fortawesome/fontawesome-svg-core'

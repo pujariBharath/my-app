@@ -27,19 +27,6 @@ export default function Home() {
       <header className="py-4 px-6 border-b">
         <nav className="flex justify-between items-center">
           <a href="#" className="text-2xl font-bold">LOGO</a>
-          <ul className="hidden md:flex space-x-6">
-            <li><a href="app/Home.tsx" className="hover:text-primary">Home</a></li>
-            <li><a href="app/casestudies.tsx" className="hover:text-primary">Case Studies</a></li>
-            <li><a href="app/pricing.tsx" className="hover:text-primary">Pricing</a></li>
-            <li><a href="app/featured.tsx" className="hover:text-primary">Featured</a></li>
-            <li><a href="app/contact.tsx" className="hover:text-primary">Contact</a></li>
-          </ul>
-          <div className="space-x-2">
-            <a href="https://my-rh6hebxpb-pujaribharaths-projects.vercel.app">
-              <button className="btn btn-outline">Sign in</button>
-            </a>
-            <button className="btn">Get Started</button>
-          </div>
         </nav>
       </header>
 

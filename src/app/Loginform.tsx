@@ -43,7 +43,7 @@ export default function LoginForm() {
           <input type="email" placeholder="Email" className="bg-[#eee] border-none my-2 px-4 py-2 text-sm rounded-lg w-full outline-none" />
           <input type="password" placeholder="Password" className="bg-[#eee] border-none my-2 px-4 py-2 text-sm rounded-lg w-full outline-none" />
           <a href="#" className="text-sm text-gray-600 no-underline my-4">Forget Your Password?</a>
-          <button className="bg-black text-white text-xs py-2 px-11 border border-transparent rounded-lg font-semibold uppercase tracking-wider mt-2 cursor-pointer">Sign In</button>
+          <button className="bg-white text-white text-xs py-2 px-11 border border-transparent rounded-lg font-semibold uppercase tracking-wider mt-2 cursor-pointer">Sign In</button>
         </form>
       </div>
       <div className="toggle-container absolute top-0 left-1/2 w-1/2 h-full overflow-hidden transition-all duration-600 ease-in-out rounded-l-[150px] z-[1000]">

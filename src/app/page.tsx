@@ -65,12 +65,12 @@ export default function Home() {
             <div className="toggle">
                 <div className="toggle-panel toggle-left">
                     <h1>Welcome Back!</h1>
-                    <p>Enter your personal details to use all of site features</p>
+                    <p>To keep connected with us  please login with your personal info</p>
                     <button className="hidden" id="login">Sign In</button>
                 </div>
                 <div className="toggle-panel toggle-right">
                     <h1>Hello, Friend!</h1>
-                    <p>Register with your personal details to use all of site features</p>
+                    <p>Enter your personal details and start your journey with us</p>
                     
                     <button className="hidden" id="register">Sign Up</button>
                 </div>
